@@ -47,7 +47,91 @@ Claro Vintage tambien se guia del espiritualismo que conlleva llevar un collar q
  
 </body>
 </html>
- <!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Vintage</title>
+<meta charset= "UTF-8">
+</head>
+<body bgcolor="f7b7c7">
+<!--cuerpo de la pagina-->
+<center>
+<img src="C:\Users\Personal\OneDrive\Desktop\sex\Vison.PNG" width=500 height="200">
+</center>
+<center>
+<strong>MISION</strong><br>
+</center>
+<center>
+Nuestra mision es ofrecer accesorios, donde puedes encontrar piezas unicas.<br> Brindamos a nuestros clientes la oportunidad de expresar su estilo unico y personal,<br> nos esforzamos por ofrecer una amplia variedad de productos unicos y originales que reforzen la belleza y la elegancia.</p>
+<center>
+<strong>VISION</strong><br>
+</center>
+<center>
+Nos esforzaremos por expandir nuestra empresa llegando a un mayor publico y claro sin dejar lo diverso, <br> ofreciendo productos unicos de alta calidad.</p>
+</center>
+<center>
+<strong>ORGANIGRAMA</strong><br>
+</center>
+<center>
+ROCIEL RODRIGUEZ & MARIA ORTIZ<br> <em>(Dueñas y socias)</em><br>
+
+ROCIEL RODRIGUEZ<br><em>(Gerente de contabilidad)</em> <br>
+
+MARIA ORTIZ<br><em>(Gerente de recursos humanos)</em></p>
+</center>
+
+
+<center>
+<img src="C:\Users\Personal\OneDrive\Desktop\sex\2.gif" width="500px">
+</center>
+<center>
+<a href= "file:///C:/Users/Personal/OneDrive/Desktop/sex/Principal.html" targer="_blank">
+<img src="C:\Users\Personal\OneDrive\Desktop\sex\Quienes somos select.PNG" width=500 height="85">
+</a>
+</center>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Vintage</title>
+<meta charset= "UTF-8">
+</head>
+<body bgcolor="f7b7c7">
+<!--cuerpo de la pagina-->
+<center>
+<img src="‪C:\Users\Personal\OneDrive\Desktop\sex\Org.PNG" width=500 height="200">
+</center>
+<center>
+<strong>DECISION DEL GRUPO</strong>
+</center>
+<center>
+<table border="1">
+<center>
+<tr>
+<td><strong>TRABAJADOR</strong></td><td><strong>OPERACION</strong></td>
+</tr>
+</center>
+<center>
+</tr>
+</center>
+<center>
+<tr>
+<td>MARIA ORTIZ GOMEZ</td><td>JEFE DE OPERACIONES FINANCIERAS</td><td>GERENTE DE MARKETING</td><td>JEFE DE RECURSOS HUMANOS</td><td>JEFE DE OPERARIA</td><td>SUPERVISOR</td>
+</tr>
+</center>
+<center>
+<a href= "file:///C:/Users/Personal/OneDrive/Desktop/sex/Principal.html" targer="_blank">
+<img src="C:\Users\Personal\OneDrive\Desktop\sex\Quienes somos select.PNG" width=500 height="85">
+</a>
+</center>
+
+
+</body>
+</html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>Vintage</title>
@@ -108,3 +192,4 @@ Claro Vintage tambien se guia del espiritualismo que conlleva llevar un collar q
 
 </body>
 </html>
+
