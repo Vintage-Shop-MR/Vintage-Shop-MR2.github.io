@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Vintage</title>
+<meta charset= "UTF-8">
+</head>
+<body bgcolor="f7b7c7">
+<!--cuerpo de la pagina-->
+<center>
+<img src="C:\Users\Personal\OneDrive\Desktop\sex\Pres.PNG" width=500 height="200">
+</center>
+<center>
+<table border="1">
+<tr>
+<td>Medio metro de cadena de corazones</td><td>5.200</td>
+</tr>
+<tr>
+<td>Metro de cadena delgada</td><td>6.400</td>
+</tr>
+<tr>
+<td>6 Ganchos para aretes</td><td>3.200</td>
+</tr>
+<tr>
+<td>Cadena blanca larga</td><td>4.000</td>
+</tr>
+<tr>
+<td>Cadena negra larga</td><td>4.000</td>
+</tr>
+<tr>
+<td>Cuarto de cadena rosada</td><td>2.500</td>
+</tr>
+<tr>
+<td>Cuarto de cadena morada</td><td>2.500</td>
+</tr>
+<tr>
+<td>6 Ganchos para cadenas</td><td>4.000</td>
+</tr>
+<tr>
+<td>Metro de cadena de perlas</td><td>2.500</td>
+</tr>
+<tr>
+<td>Dije de cruz</td><td>12.000</td>
+</tr>
+<tr>
+<td>Dije de mariposa</td><td>2.000</td>
+</tr>
+<tr>
+<td>Ganchitos de ropa</td><td>1.000</td>
+</tr>
+</center>
+<center>
+<img src="C:\Users\Personal\OneDrive\Desktop\sex\3.gif" width="500px">
+</center>
+<center>
+<a href= "file:///C:/Users/Personal/OneDrive/Desktop/sex/Principal.html" targer="_blank">
+<img src="C:\Users\Personal\OneDrive\Desktop\sex\Quienes somos select.PNG" width=500 height="85">
+<a/>
+</center>
+
+</body>
+</html>

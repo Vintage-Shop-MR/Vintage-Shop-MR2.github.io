@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Vintage</title>
+<meta charset= "UTF-8">
+</head>
+<body bgcolor="f7b7c7">
+<!--cuerpo de la pagina-->
+<center>
+<img src="‪C:\Users\Personal\OneDrive\Desktop\sex\Org.PNG" width=500 height="200">
+</center>
+<center>
+<strong>DECISION DEL GRUPO</strong>
+</center>
+<center>
+<table border="1">
+<center>
+<tr>
+<td><strong>TRABAJADOR</strong></td><td><strong>OPERACION</strong></td>
+</tr>
+</center>
+<center>
+</tr>
+</center>
+<center>
+<tr>
+<td>MARIA ORTIZ GOMEZ</td><td>JEFE DE OPERACIONES FINANCIERAS</td><td>GERENTE DE MARKETING</td><td>JEFE DE RECURSOS HUMANOS</td><td>JEFE DE OPERARIA</td><td>SUPERVISOR</td>
+</tr>
+</center>
+<center>
+<a href= "file:///C:/Users/Personal/OneDrive/Desktop/sex/Principal.html" targer="_blank">
+<img src="C:\Users\Personal\OneDrive\Desktop\sex\Quienes somos select.PNG" width=500 height="85">
+</a>
+</center>
+
+
+</body>
+</html>
+
